@@ -1,5 +1,0 @@
-{{#user}
-Name: Rahul Radhakisan Tekale
-Skills: HTML, CSS, JS,React , Next.js,Jva,python,c++,sql
-Email:rahul.tekale@mmit.edu.in
-{{/user}}
